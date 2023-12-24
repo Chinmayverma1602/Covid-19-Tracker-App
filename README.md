@@ -1,4 +1,4 @@
-# covid
+# Covid-19 Tracker App using Flutter and Rest API
 
 A new Flutter project.
 
